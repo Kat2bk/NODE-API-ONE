@@ -18,5 +18,7 @@ server.listen(port, () => {
 // 8. create the listener for your server
 // 9. set up your endpoints with statusCodes
 // 10. be sure to export your endpoints/server.js
+// 11. be sure to require the model functions for endpoints
+// **if setting up react or other platform, install cors
 
 
